@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+
+  frontend:
+    container_name: "brochure-frontend"
+    build:
+      context: ./web-frontend
+    ports:
+      - "8080:3000"
+    depends_on:
+      - web-api
+
+  web-api:
+    container_name: "brochure-api"
+    volumes:
+      - .tmp/data.db:/app/.tmp/data.db
+    ports:
+      - "3040:3040"
+    build:
+      context: ./web-api
+    depends_on:
+      - web-cms
+
+  web-cms:
+    container_name: "brochure-cms"
+    ports:
+      - "1337:1337"
+    build:
+      context: ./web-cms

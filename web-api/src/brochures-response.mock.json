@@ -1,0 +1,396 @@
+{
+  "_embedded":{
+    "brochures":[
+      {
+        "id":508661,
+        "title":"Mon style, mon choix",
+        "contentId":"17acb2fe-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508662,
+        "title":"New world",
+        "contentId":"17acb2fe-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508663,
+        "title":"Mars overdraft",
+        "contentId":"26a25bec-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508664,
+        "title":"Riverside balcony",
+        "contentId":"2d730084-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508665,
+        "title":"Yoga Stretch",
+        "contentId":"2d730084-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508666,
+        "title":"Blunt Cars",
+        "contentId":"498f3440-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508667,
+        "title":"Outerworld magic",
+        "contentId":"50651eb0-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508668,
+        "title":"Football prodigy",
+        "contentId":"57a55a32-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508669,
+        "title":"Mango salads",
+        "contentId":"636553e0-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508670,
+        "title":"Better days",
+        "contentId":"156523e0-3146-11ee-be56-0242ac120002\n\n",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":50871,
+        "title":"Garden of Eve",
+        "contentId":"6fc15aa8-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      },
+      {
+        "id":508672,
+        "title":"Terminator",
+        "contentId":"0d2a8680-3146-11ee-be56-0242ac120002",
+        "validFrom":"2021-04-01T00:00:00",
+        "validUntil":"2021-05-14T23:00:00",
+        "rank":1.0,
+        "brochureImages":{
+          "thumbnails":"https://...jpg?policy=thumbnails",
+          "normal":"https://...jpg?policy=320x480",
+          "large":"https://...jpg?policy=768x1024"
+        },
+        "publisher":{
+          "id":"410369225",
+          "name":"Xooon",
+          "publisherType": "RETAILER",
+          "logo":{
+            "thumbnails":"https://...jpg?policy=thumbnails",
+            "normal":"https://...jpg?policy=320x480",
+            "large":"https://...jpg?policy=768x1024"
+          }
+        },
+        "page":0,
+        "type": "BROCHURE",
+        "publishedFrom": "2021-04-03T23:00:00.000+0000",
+        "publishedUntil": "2021-05-14T21:00:00.000+0000",
+        "_links":{
+          "self":{
+            "href":"https://.../webapp/viewer/508661492..."
+          }
+        }
+      }
+    ]
+  },
+  "page":{
+    "size":1,
+    "totalElements":974,
+    "totalPages":974,
+    "number":0
+  }
+}
