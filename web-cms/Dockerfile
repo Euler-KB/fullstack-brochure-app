@@ -8,4 +8,6 @@ RUN yarn install
 
 COPY . .
 
+EXPOSE 1337
+
 CMD ["yarn","run", "develop"]

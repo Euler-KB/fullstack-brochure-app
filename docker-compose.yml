@@ -8,9 +8,9 @@ services:
     ports:
       - "8080:3000"
     depends_on:
-      - web-api
+      - api
 
-  web-api:
+  api:
     container_name: "brochure-api"
     volumes:
       - .tmp/data.db:/app/.tmp/data.db
@@ -19,9 +19,9 @@ services:
     build:
       context: ./web-api
     depends_on:
-      - web-cms
+      - cms
 
-  web-cms:
+  cms:
     container_name: "brochure-cms"
     ports:
       - "1337:1337"

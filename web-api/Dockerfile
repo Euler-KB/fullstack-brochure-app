@@ -10,4 +10,6 @@ COPY . .
 
 RUN yarn run build
 
+EXPOSE 3040
+
 CMD ["yarn", "run", "start:prod"]
