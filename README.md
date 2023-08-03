@@ -1,5 +1,7 @@
 ## Bonial (Brochures Application)
 
+![main-dashboard](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/63892d11-0e57-48c6-8cf8-f7e2f23673dc)
+
 #### Technologies Used
 - NestJS (Typescript) - Web API
 - Next.js + Material UI (Typescript) - Frontend
@@ -26,3 +28,6 @@ If the product or city is not found it will render the default 404 page.
 2. Run the command `npm start`
 3. (Optional) Configure `Strapi` CMS by navigating to `localhost:1337` and configure `find` and `findOne` permissions for both collections `city` and `products`
 4. Navigate to frontend app on `localhost:8080` 
+
+#### Error State
+![error-screenshot](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/916fbc19-7a39-4481-820e-d2bb3bf6ea8c)
