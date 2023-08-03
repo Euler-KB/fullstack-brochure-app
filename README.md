@@ -27,7 +27,12 @@ If the product or city is not found it will render the default 404 page.
 1. Navigate to the root project directory
 2. Run the command `npm start`
 3. (Optional) Configure `Strapi` CMS by navigating to `localhost:1337` and configure `find` and `findOne` permissions for both collections `city` and `products`
-4. Navigate to frontend app on `localhost:8080` 
 
-#### Error State
-![error-screenshot](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/916fbc19-7a39-4481-820e-d2bb3bf6ea8c)
+
+![settings-roles](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/7d7e14dc-3740-4bd9-8b84-02f0f3bf38b0)
+
+![city-permission](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/69af81a5-159c-496b-b88e-4ffee6c70d79)
+
+![product-permission](https://github.com/Euler-KB/fullstack-brochure-app/assets/20619575/d0da650b-a186-4ebe-9d76-f2aa7f256c0a)
+
+4. Navigate to frontend app on `localhost:8080`
